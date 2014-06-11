@@ -16,8 +16,8 @@
     },
     "require": {
         "php": ">=5.3.3",
-        "symfony/framework-bundle": "~3.0",
-        "guzzle/guzzle": "~3.0"
+        "symfony/framework-bundle": "~2.2",
+        "guzzle/guzzle": "~4.0"
     },
     "suggest": {
         "jms/serializer-bundle": "Serialize/deserialize objects to/from XML, JSON and YAML",
